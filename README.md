@@ -16,4 +16,4 @@ It shows **current weather conditions** for any searched city (or your current l
 
 ---
 
-The code I got from the gpt is different from the code I used in the final code. Will not say its completely different, because I just installed tailwing the right way instead of using separate files for postcss and tailwind.  
+The code I got from the gpt is different from the code I used in the final code. Will not say its completely different, because I installed tailwind in other way which helped me from using a separate file for tailwind and there was no need for postcss at all. 
