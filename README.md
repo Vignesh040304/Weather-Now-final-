@@ -15,15 +15,3 @@ It shows **current weather conditions** for any searched city (or your current l
 - ❌ **No API key required** (Open-Meteo is free)
 
 ---
-
-## 📂 Project Structure
-
-
----
-
-## 🚀 Getting Started
-
-### 1. Clone the repo
-```bash
-git clone https://github.com/your-username/weather-now.git
-cd weather-now
