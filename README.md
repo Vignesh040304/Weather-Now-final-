@@ -15,3 +15,5 @@ It shows **current weather conditions** for any searched city (or your current l
 - ❌ **No API key required** (Open-Meteo is free)
 
 ---
+
+The code I got from the gpt is different from the code I used in the final code. Will not say its completely different, because I just installed tailwing the right way instead of using separate files for postcss and tailwind.  
